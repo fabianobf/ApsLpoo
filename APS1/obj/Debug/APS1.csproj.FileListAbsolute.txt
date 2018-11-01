@@ -1,0 +1,7 @@
+C:\Users\Fabiano\Documents\Source\repos\APS1\APS1\obj\Debug\APS1.csprojAssemblyReference.cache
+C:\Users\Fabiano\Documents\Source\repos\APS1\APS1\obj\Debug\APS1.csproj.CoreCompileInputs.cache
+C:\Users\Fabiano\Documents\Source\repos\APS1\APS1\bin\Debug\APS1.exe.config
+C:\Users\Fabiano\Documents\Source\repos\APS1\APS1\bin\Debug\APS1.exe
+C:\Users\Fabiano\Documents\Source\repos\APS1\APS1\bin\Debug\APS1.pdb
+C:\Users\Fabiano\Documents\Source\repos\APS1\APS1\obj\Debug\APS1.exe
+C:\Users\Fabiano\Documents\Source\repos\APS1\APS1\obj\Debug\APS1.pdb
