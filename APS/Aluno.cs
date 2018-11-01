@@ -1,26 +1,32 @@
-﻿using System;
-namespace APS
-{
-    public class Aluno
-    {
-        public Aluno()
-        {
-            string nomeCompleto;
-            long matricula;
-            string CPF;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-            public void imprimirNome()
-            {
-                Console.WriteLine($"Nome: {nomeCompleto}");
-            }
-            public void imprimirMatricula()
-            {
-                Console.WriteLine($"Matricula: {matricula}");
-            }
-            public void imprimeCPF()
-            {
-                Console.WriteLine($"CPF: {CPF}");
-            }
+namespace APS {
+    class Aluno {
+        string NomeCompleto;
+        long Matricula;
+        string Cpf;
+
+        public void setNome(string nome) {
+            NomeCompleto = nome;
+        }
+        public void setMatricula(long matricula) {
+            Matricula = matricula;
+        }
+        public void setCpf(string cpf) {
+            Cpf = cpf;
+        }
+        public void imprimirNome() {
+            Console.WriteLine($"Nome: {NomeCompleto}");
+        }
+        public void imprimirMatricula() {
+            Console.WriteLine($"Matricula: {Matricula}");
+        }
+        public void imprimeCPF() {
+            Console.WriteLine($"CPF: {Cpf}");
         }
     }
 }
